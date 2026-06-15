@@ -2,6 +2,16 @@
 
 fatima is a computer science student.
 
+<!-- gittymusic:https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3 -->
+<div>
+  <p>
+    🎵 This profile has profile music! Enable
+    <a href="https://github.com/your-username/gittymusic">gittymusic</a>
+    extension to play it
+  </p>
+  <div></div>
+</div>
+
 <!--
 **fatimanotron/fatimanotron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
